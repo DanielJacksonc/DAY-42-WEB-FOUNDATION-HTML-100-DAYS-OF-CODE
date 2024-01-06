@@ -1,0 +1,8 @@
+create a repo on github
+Go to the folder that you need to push, or just go to the folder and click on open with bash GUI (mkdir new_folder or cd new_folder)
+initialize the new Git Repo(git init)
+add and commit changes(git add .)
+commit your files(git commit -m "Initial commit")
+Add the remote repository URL: (git remote add origin <remote_repository_url>)
+Push your NEW repo (git push -u origin master)
+to check the status(git status)
